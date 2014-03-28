@@ -1,3 +1,7 @@
+# Important note
+
+Pansenti, LLC is no longer in business and this repo is no longer actively supported. Please checkout www.richards-tech.com for the latest IMU-related software developments.
+
 # linux-mpu9150
 
 An implementation of 9-axis data fusion on Linux using the [InvenSense MPU-9150 IMU][1]
@@ -293,4 +297,5 @@ use. The idea is that you'll write your own program to replace <code>imu</code>.
 
 All of the functions in the Invensense SDK under the <code>eMPL</code> directory
 are available. See <code>mpu9150/mpu9150.c</code> for some examples.
+
 
